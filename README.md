@@ -65,6 +65,8 @@ I am a passionate **Computer Science Undergraduate** at **G.L.A University** (B.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-FFA116?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA" />
+<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS" />
+<img src="https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=linux&logoColor=white" alt="OS" />
 <img src="https://img.shields.io/badge/Computer_Networks-47A248?style=for-the-badge&logo=cisco&logoColor=white" alt="Networks" />
 </details>
 
@@ -105,13 +107,13 @@ I am a passionate **Computer Science Undergraduate** at **G.L.A University** (B.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudraagrawal590&show_icons=true&theme=radical&hideloading=true" alt="Rudra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudra7402&show_icons=true&theme=radical&hideloading=true" alt="Rudra's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraagrawal590&layout=compact&theme=radical&hideloading=true" alt="Rudra's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra7402&layout=compact&theme=radical&hideloading=true" alt="Rudra's Top Languages" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraagrawal590&theme=radical" alt="Rudra's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra7402&theme=radical" alt="Rudra's GitHub Streak" />
 </p>
 
 ---
