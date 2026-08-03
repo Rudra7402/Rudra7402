@@ -75,21 +75,21 @@ I am a passionate **Computer Science Undergraduate** at **G.L.A University** (B.
 ### 📂 Featured Projects
 
 #### 🤖 **Enterprise Autonomous RAG AI Agent** 
-*Node.js, Express, LangGraph, MongoDB Atlas, Redis, BullMQ*
+*Node.js, Express, LangGraph, MongoDB Atlas, Redis, BullMQ* | [Live Demo](https://autonomous-rag-ai-agent.onrender.com) | [Source Code](https://github.com/Rudra7402)
 *   **Autonomous RAG Workflow:** Integrated **LangGraph** to dynamically route user queries between MongoDB Atlas Vector Search database and live Google search API, dramatically minimizing LLM hallucinations.
 *   **Event-Driven Asynchronous Pipeline:** Offloaded high-cost operations (PDF parsing, chunking, embedding generation) to **BullMQ** and **Redis** workers to keep Node.js backend fast and non-blocking.
 *   **Hybrid Search & Reranking:** Formulated a two-stage retrieval combining HNSW vector search with Cohere Cross-Encoder Reranking for high relevance scores.
 *   **Security & Optimization:** Protected routes using JWT and utilized Redis cache with rate-limiting to slash LLM API billing costs.
 
 #### 🎮 **CodeArena — Collaborative Coding & Learning Platform**
-*React, Redux, Node.js, Express, MongoDB, Redis*
+*React, Redux, Node.js, Express, MongoDB, Redis* | [Live Demo](https://code-arena-navy.vercel.app/) | [Source Code](https://github.com/Rudra7402/CodeArena)
 *   **Code Sandbox:** Designed a remote code execution engine powered by **Judge0** api executing multi-language code snippets.
 *   **Context-Aware AI Tutor:** Embedded a personalized tutor leveraging the **Google Gemini API** to output conceptual hints for source code.
 *   **Authentication & Gamification:** Secured user authorization via JWT, Google OAuth 2.0, and a Redis token blacklist while running streaks and daily user rankings.
 *   **Payment Gateway:** Integrated **Stripe Checkout** webhook integration to unlock premium Cloudinary-hosted editorial walkthroughs.
 
 #### 📈 **API Monitoring & Telemetry Platform**
-*Node.js, Express, MongoDB, RabbitMQ, AWS S3*
+*Node.js, Express, MongoDB, RabbitMQ, AWS S3* | [Live Demo](https://api-monitoring-silk.vercel.app/) | [Source Code](https://github.com/Rudra7402)
 *   **Telemetry Logging:** Created a central server recording request response times, status codes, telemetry logs, and IP locations onto real-time admin panels.
 *   **Resilient Ingestion:** Drafted a message-broker queue pipeline with **RabbitMQ** utilizing a custom-designed **Circuit Breaker** and a Dead Letter Queue (DLQ) for error handling.
 *   **Automated Reporting:** Computed batch metrics via MongoDB aggregations and delivered reports using AWS S3 pre-signed URLs.
@@ -104,18 +104,11 @@ I am a passionate **Computer Science Undergraduate** at **G.L.A University** (B.
 
 ---
 
-### 📈 GitHub Stats & Summary
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudra7402&theme=radical" alt="GitHub Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudra7402&theme=radical" alt="Repos per Language" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra7402&theme=radical" alt="Rudra's GitHub Streak" />
 </p>
-
 
 ---
 
