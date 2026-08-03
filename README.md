@@ -122,13 +122,13 @@ I am a passionate **Computer Science Undergraduate** at **G.L.A University** (B.
   <a href="mailto:rudraagrawal590@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="https://linkedin.com/in/rudra-agrawal-" target="_blank">
+  <a href="https://www.linkedin.com/in/rudra-agrawal-24b2722a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://leetcode.com/rudraagrawal590" target="_blank">
+  <a href="https://leetcode.com/u/rudraagrawal191/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/rudraagrawal590/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/rudraagr7tel" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge" />
   </a>
 </p>
