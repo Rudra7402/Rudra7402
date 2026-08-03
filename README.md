@@ -75,7 +75,7 @@ I am a passionate **Computer Science Undergraduate** at **G.L.A University** (B.
 ### 📂 Featured Projects
 
 #### 🤖 **Enterprise Autonomous RAG AI Agent** 
-*Node.js, Express, LangGraph, MongoDB Atlas, Redis, BullMQ* | [Live Demo](https://autonomous-rag-ai-agent.onrender.com) | [Source Code](https://github.com/Rudra7402)
+*Node.js, Express, LangGraph, MongoDB Atlas, Redis, BullMQ* | [Live Demo](https://autonomous-rag-ai-agent.onrender.com) | [Source Code](https://github.com/Rudra7402/Autonomous-RAG-AI-Agent)
 *   **Autonomous RAG Workflow:** Integrated **LangGraph** to dynamically route user queries between MongoDB Atlas Vector Search database and live Google search API, dramatically minimizing LLM hallucinations.
 *   **Event-Driven Asynchronous Pipeline:** Offloaded high-cost operations (PDF parsing, chunking, embedding generation) to **BullMQ** and **Redis** workers to keep Node.js backend fast and non-blocking.
 *   **Hybrid Search & Reranking:** Formulated a two-stage retrieval combining HNSW vector search with Cohere Cross-Encoder Reranking for high relevance scores.
@@ -89,7 +89,7 @@ I am a passionate **Computer Science Undergraduate** at **G.L.A University** (B.
 *   **Payment Gateway:** Integrated **Stripe Checkout** webhook integration to unlock premium Cloudinary-hosted editorial walkthroughs.
 
 #### 📈 **API Monitoring & Telemetry Platform**
-*Node.js, Express, MongoDB, RabbitMQ, AWS S3* | [Live Demo](https://api-monitoring-silk.vercel.app/) | [Source Code](https://github.com/Rudra7402)
+*Node.js, Express, MongoDB, RabbitMQ, AWS S3* | [Live Demo](https://api-monitoring-silk.vercel.app/) | [Source Code](https://github.com/Rudra7402/Api-Monitoring)
 *   **Telemetry Logging:** Created a central server recording request response times, status codes, telemetry logs, and IP locations onto real-time admin panels.
 *   **Resilient Ingestion:** Drafted a message-broker queue pipeline with **RabbitMQ** utilizing a custom-designed **Circuit Breaker** and a Dead Letter Queue (DLQ) for error handling.
 *   **Automated Reporting:** Computed batch metrics via MongoDB aggregations and delivered reports using AWS S3 pre-signed URLs.
