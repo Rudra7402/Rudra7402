@@ -104,17 +104,18 @@ I am a passionate **Computer Science Undergraduate** at **G.L.A University** (B.
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra7402&show_icons=true&theme=radical&hideloading=true" alt="Rudra's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudra7402&theme=radical" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra7402&layout=compact&theme=radical&hideloading=true" alt="Rudra's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudra7402&theme=radical" alt="Repos per Language" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra7402&theme=radical" alt="Rudra's GitHub Streak" />
 </p>
+
 
 ---
 
