@@ -74,12 +74,23 @@ I am a passionate **Computer Science Undergraduate** at **G.L.A University** (B.
 
 ### 📂 Featured Projects
 
-#### 🤖 **Enterprise Autonomous RAG AI Agent** 
-*Node.js, Express, LangGraph, MongoDB Atlas, Redis, BullMQ* | [Live Demo](https://autonomous-rag-ai-agent.onrender.com) | [Source Code](https://github.com/Rudra7402/Autonomous-RAG-AI-Agent)
-*   **Autonomous RAG Workflow:** Integrated **LangGraph** to dynamically route user queries between MongoDB Atlas Vector Search database and live Google search API, dramatically minimizing LLM hallucinations.
-*   **Event-Driven Asynchronous Pipeline:** Offloaded high-cost operations (PDF parsing, chunking, embedding generation) to **BullMQ** and **Redis** workers to keep Node.js backend fast and non-blocking.
-*   **Hybrid Search & Reranking:** Formulated a two-stage retrieval combining HNSW vector search with Cohere Cross-Encoder Reranking for high relevance scores.
-*   **Security & Optimization:** Protected routes using JWT and utilized Redis cache with rate-limiting to slash LLM API billing costs.
+📚 DocuRAG — Enterprise Technical Documentation Engine
+
+Node.js, Express, LangGraph, MongoDB Atlas, Redis Cloud, BullMQ, Google Gemini | GitHub Repository
+
+Autonomous Agentic State Machine: Integrated LangGraph to construct a multi-node cyclical state graph (Router 
+→
+→ Retrieve 
+→
+→ Grade 
+→
+→ Rewrite 
+→
+→ Generate) with self-correcting query rewrites and citation grounding.
+Heading-Aware Ingestion & Section Citations: Built specialized Markdown (.md) and PDF chunking that captures hierarchical section metadata (## Heading) to deliver transparent section badges with collapsible source drawers.
+Documentation Gap Detection: Engineered dual operational modes: Strict Docs Mode (strictly refusing to hallucinate when topics are missing from documentation) and Hybrid Mode (automated Tavily AI live web search fallback).
+2-Stage Retrieval & Sub-10ms Caching: Formulated two-stage retrieval combining MongoDB Atlas Vector Search (768-d Gemini embeddings) with Cohere Cross-Encoder Reranking, backed by a mode-aware Redis Cloud memory cache.
+Event-Driven Asynchronous Queues: Offloaded heavy document parsing, splitting, and vector embedding to BullMQ background workers on Redis, secured with httpOnly cookie-based JWT authentication for multi-chat isolation.
 
 #### 🎮 **CodeArena — Collaborative Coding & Learning Platform**
 *React, Redux, Node.js, Express, MongoDB, Redis* | [Live Demo](https://code-arena-navy.vercel.app/) | [Source Code](https://github.com/Rudra7402/CodeArena)
